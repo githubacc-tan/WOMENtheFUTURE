@@ -186,3 +186,12 @@ padding-top: 5%;
 
 }
 
+#links {
+    background-color: whitesmoke;
+    padding: 100px 0;
+}
+ #link p {
+     font-size: 36px;
+     font-weight: 600;
+     margin-bottom: 30px;
+ }
